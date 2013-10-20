@@ -1,9 +1,7 @@
-package extended.model;
+package extended.example;
 
-import javax.annotation.Generated;
 import javax.persistence.*;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 @Entity

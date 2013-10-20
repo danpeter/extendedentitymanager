@@ -1,6 +1,5 @@
-package extended.model;
+package extended.example;
 
-import javax.ejb.Remove;
 import javax.ejb.Stateful;
 import javax.ejb.TransactionAttribute;
 import javax.ejb.TransactionAttributeType;
